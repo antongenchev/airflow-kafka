@@ -1,5 +1,5 @@
 # Airflow-Kafka Mini Data Streaming Project
-This repository contains a minimal data streaming setup utilizing Apache Airflow and Kafka. It's based on the tutorial by CodeWithYou, which you can find https://youtu.be/GqAcTrqKcrY?si=yUteXB5KiD3fkkyu. This setup can serve as a reusable template for other data streaming projects.
+This repository contains a minimal data streaming setup utilizing Apache Airflow and Kafka. It's based on the tutorial by CodeWithYou, which you can find here https://youtu.be/GqAcTrqKcrY?si=yUteXB5KiD3fkkyu. This setup can serve as a reusable template for other data streaming projects.
 
 ## Overview
 This project demonstrates a simple streaming data pipeline that integrates Kafka with Airflow. It showcases how to produce and consume data in Kafka and orchestrate the entire data flow using Airflow.
